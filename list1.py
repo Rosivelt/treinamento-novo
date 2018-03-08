@@ -43,7 +43,7 @@ def front_x(words):
         if i[0] == 'x':
             lista_x.append(i)
         else:
-            lista_b .append(i)
+            lista_b.append(i)
     lista_x.sort()
     lista_b.sort()
     lista_a = lista_x + lista_b
